@@ -1,1 +1,1 @@
-consloe.log("Hello Devops form java Script");
+console.log("Hello Devops form java Script");
